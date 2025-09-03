@@ -55,6 +55,9 @@ Overall the Yolov3 model is faster but the FasterRCNN model performs better
 <tr>
 <td align='left'>Faster-RCNN</td>
 <td align='center'>78</td>
+</tr>
+
+<tr>
 <td align='left'>Yolov3</td>
 <td align='center'>12</td>
 </tr>
