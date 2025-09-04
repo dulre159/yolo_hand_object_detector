@@ -3,14 +3,14 @@
 Yolov3 based hand object detector trained on [100DOH](https://arxiv.org/abs/2006.06669) dataset.
 ![method](assets/yolov3_outputs_i.png)
 
-# Introduction
+## Introduction
 The code was written for my master thesis.
 This repository uses Yolov3 implementation from [base_yolov3_implementation](https://github.com/eriklindernoren/PyTorch-YOLOv3/tree/master)
 The model implementation is taken from [yolov3_model_implementation](https://github.com/aladdinpersson/Machine-Learning-Collection/tree/master/ML/Pytorch/object_detection/YOLOv3)
 
 An implementation with deatached head is provided similar to [YOLOX: Exceeding YOLO Series in 2021](https://arxiv.org/abs/2107.08430)
 
-# PrePrerequisites
+## PrePrerequisites
 
 Prepare a python or conda venv with the following packages:
 * numpy
